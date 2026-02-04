@@ -5,10 +5,10 @@
 ---
 
 ## 🗒️ Contenido
-1. [📝 Descripción del proyecto](#-descripción-del-proyecto)
-2. [🗂️ Estructura del Repositorio](#-estructura_del_repositorio)
-3. [💾 Tecnologías utilizadas](#-tecnologías_utilizadas)
-4. [👩🏻‍💻 Autora](#-autora)
+1. [📝 Descripción del proyecto](-descripción-del-proyecto)
+2. [🗂️ Estructura del Repositorio](-estructura_del_repositorio)
+3. [💾 Tecnologías utilizadas](-tecnologías_utilizadas)
+4. [👩🏻‍💻 Autora](-autora)
 
 ---
 
